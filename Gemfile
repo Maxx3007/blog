@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'better_errors', '~> 2.7'
+gem 'better_errors', '~> 2.8'
 
 gem 'bulma-rails', '~> 0.8.0'
 
